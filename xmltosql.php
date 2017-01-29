@@ -1,4 +1,13 @@
 <?php
+/**
+ * HANA XML to SQL
+ *
+ * This file is licensed under the Affero General Public License version 3 or
+ * later. See the LICENSE.md file.
+ *
+ * @author Marcel Scherello <hanaxmltosql@scherello.de>
+ * @copyright 2016-2017 Marcel Scherello
+ */
 
 $xml = new SimpleXMLElement($xml_input);
 
