@@ -4,9 +4,9 @@
 convert SAP HANA xml definitions of graphically created views into plain sql
 
 the following node types are processed
-- projections
-- aggretations
-- joins
+- projection
+- aggretation
+- join
 
 
 the following formulars are already processed
