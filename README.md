@@ -8,6 +8,7 @@ the following node types are processed
 - projection
 - aggretation
 - join
+- rank
 
 
 the following formulars are already processed
